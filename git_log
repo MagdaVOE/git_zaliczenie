@@ -1,0 +1,7 @@
+C:\Users\madzi\Desktop\git>git log --pretty=oneline
+29cd20bdb1f31137994fd4bc153b144156e3c925 (HEAD -> master, origin/master) Merge pull request #1 from MagdaVOE/environment
+065076d491a912ff43925b621b863d011f455aff tag
+960bae1e4887bb837f9b9540b4c6248ed0dfc18b Update environment.md
+a8620824635af15157db64128fe6ee1cf3e2b68e Update environment.md
+cf310e3c768289533a7323a25e1b1b4fa6e0cd65 (tag: v4.2) Create environment.md
+d8dc20cade73145ea5aad5f3957becf322b0f97f Create README.md
